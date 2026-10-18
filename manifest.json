@@ -1,0 +1,15 @@
+{
+  "name": "StarterKit by thegoodsvisual",
+  "short_name": "StarterKit",
+  "description": "StarterKit gratis untuk mulai foto HP: modul, preset, template, dan hook siap pakai.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F0E0D",
+  "theme_color": "#0F0E0D",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
